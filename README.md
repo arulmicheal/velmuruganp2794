@@ -20,35 +20,35 @@ www.linkedin.com/in/velmurugan-sdet/
 
 **Skills:**
 
-Programming Languages :
+**Programming Languages :**
 Core Java |
 
-Front-End (UI) Automation :
+**Front-End (UI) Automation** :
 Selenium WebDriver |
 
-Back-End (API) Automation :
+**Back-End (API) Automation :**
 PostMan | Rest Assured |
 
-DataStructures :
+**DataStructures :**
 Arrays | Strings | LinkedList | HashMap | Stack | Queue | Tree |
 
-Algorithms :
+**Algorithms :**
 Two Pointers | Binary Search | Sliding Window | Dynamic Programming |
 
-Source Control Tools :
+**Source Control Tools :**
 GitHub | Bitbucket |
 
-CI/CD Tools :
+**CI/CD Tools :**
 Jenkins | LightSpeed | Harness |
 
-Build Tools :
+**Build Tools :**
 Maven | Gradle |
 
-DataBases :
+**DataBases :**
 SQL | Postgresql |
 
-Test Management Tools:
+**Test Management Tools:**
 JIRA | Azure TFS |
 
-Others:
+**Others:**
 Swagger | Confluence | Elastic Search |
