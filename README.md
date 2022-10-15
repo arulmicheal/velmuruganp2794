@@ -1,10 +1,11 @@
 VelmuruganPonnurangam/README.md
 
 Hi 👋, I'm Velmurugan Ponnurangam
+
 Experienced Software Development Engineer In Test with a demonstrated history of working in the Banking and Insurance industries.
 A team player who is competent, collaborative and dedicated to the success of the organization.
 
-🔭 I’m currently working on BackEnd Automation using RestAssured and Cucumber
+🔭 I’m currently working on BackEnd Automation using RestAssured and Cucumber.
 
 🌱 I’m currently learning DataStructures and Algorithms.
 
